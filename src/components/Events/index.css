@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.events-container {
+  background-color: #3a4b63;
+  width: 60%;
+  min-height: 100vh;
+  padding: 30px;
+}
+.heading {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 40px;
+}
+.events-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  padding-left: 0px;
+}
